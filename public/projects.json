@@ -1,15 +1,15 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Power, Potions, Destruction! -oh my!",
+      "live": "https://doniellekinchen.github.io/project1-mastermind/",
+      "git": "https://github.com/doniellekinchen/project1-mastermind",
+      "image": "https://i.imgur.com/VGyNPhp.png"
     },
     {
-      "name": "project2",
+      "name": "Joystick Jury",
       "live": "https://app.netlify.app/whatever",
       "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://i.imgur.com/vzMYUdT.png"
     }
   ]
   
