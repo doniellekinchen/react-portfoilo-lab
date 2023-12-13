@@ -8,8 +8,8 @@
     },
     {
       "name": "Joystick Jury",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "live": "https://joystick-jury-b3d4a6748f01.herokuapp.com",
+      "git": "https://github.com/BrObando/Project-2",
       "image": "https://i.imgur.com/vzMYUdT.png",
       "detail": "Welcome to Joystick Jury, a video game review site where you can discuss old and current video games & new releases!"
     }

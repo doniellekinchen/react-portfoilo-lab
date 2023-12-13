@@ -2,6 +2,7 @@
 function Home(props) {
     return (
       <div className="typewriter">
+        <h3 className="intro">Full-Stack Developer from Atlanta, GA</h3>
       <h4>She turned her can’ts into cans and her dreams into plans</h4>
       </div>
     )

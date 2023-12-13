@@ -23,15 +23,15 @@ function About() {
   // define a function that will return the JSX needed once we get the data
   const loaded = () => (
     <div>
-      <h2>{about.name}</h2>
+      {/* <h2>{about.name}</h2> */}
       <img className="headshot" src={about.headshot}></img>
       <h2 align="center">
   <a href="https://skillicons.dev">
-    <img className="skills" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,nodejs,react,git,github" />
+    <img className="skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,nodejs,react,git,github" />
   </a>
 </h2>
-      <a href={`mailto:${about.email}`}>Email</a>
-      <h3>{about.blog}</h3>
+      <a className="email" href={`mailto:${about.email}`}>Email</a> |
+      <a className="medium" href={`${about.blog}`}>Medium</a>
       <p>{about.bio}</p>
     </div>
   );
