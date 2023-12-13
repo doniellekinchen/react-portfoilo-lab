@@ -7,7 +7,7 @@ function Header() {
   const navStyle = {
     display: "flex",
     justifyContent: "space-around",
-    // borderBottom: ".2rem solid black",
+    // borderBottom: ".2rem solid white",
     padding: ".5rem",
     width: "90%",
     margin: "auto",
@@ -16,7 +16,7 @@ function Header() {
 
   return (
     <header>
-      <h1>My Portfolio Page</h1>
+      <h3 className="doni">Donielle Kinchen</h3>
       <nav style={navStyle}>
         <Link to="/">
           <div className="home">HOME</div>

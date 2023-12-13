@@ -24,8 +24,14 @@ function About() {
   const loaded = () => (
     <div>
       <h2>{about.name}</h2>
-      <img src={about.headshot}></img>
-      <h3>{about.email}</h3>
+      <img className="headshot" src={about.headshot}></img>
+      <h2 align="center">
+  <a href="https://skillicons.dev">
+    <img className="skills" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,nodejs,react,git,github" />
+  </a>
+</h2>
+      <a href={`mailto:${about.email}`}>Email</a>
+      <h3>{about.blog}</h3>
       <p>{about.bio}</p>
     </div>
   );

@@ -1,5 +1,5 @@
 function Footer(props) {
-    return <h1>Footer</h1>;
+    return <h6>This webpage was personally victimized by Regina George</h6>;
   }
   
   export default Footer;
