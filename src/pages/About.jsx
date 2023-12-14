@@ -31,6 +31,7 @@ function About() {
     <img className="skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,nodejs,react,git,github" />
   </a>
 </h2>
+      <a className="resume" href={`${about.github}`}>Github</a> |
       <a className="resume" href={`${about.linkedin}`}>LinkedIn</a> |
       <a className="resume" href={`${about.resume}`}>Resume</a> |
       <a className="email" href={`mailto:${about.email}`}>Email</a> |
