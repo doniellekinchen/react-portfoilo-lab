@@ -31,10 +31,11 @@ function About() {
     <img className="skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,nodejs,react,git,github" />
   </a>
 </h2>
+      <a className="resume" href={`${about.linkedin}`}>LinkedIn</a> |
+      <a className="resume" href={`${about.resume}`}>Resume</a> |
       <a className="email" href={`mailto:${about.email}`}>Email</a> |
-      <a className="medium" href={`${about.blog}`}>Medium</a> |
-      <a className="resume" href={`${about.resume}`}>Resume</a>
-      <p className="bio">{about.bio}</p>
+      <a className="medium" href={`${about.blog}`}>Medium</a> 
+   <p className="bio">{about.bio}</p>
     </div>
   );
 
