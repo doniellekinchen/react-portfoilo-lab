@@ -1,17 +1,19 @@
 [
     {
-      "name": "Power, Potions, Destruction! -oh my!",
+      "name": "Power, Potions, Destruction!",
       "live": "https://doniellekinchen.github.io/project1-mastermind/",
       "git": "https://github.com/doniellekinchen/project1-mastermind",
       "image": "https://i.imgur.com/VGyNPhp.png",
-      "detail": "Creating the perfect potion to give yourself the ultimate superpowers, but only at the recommendation of the mad scientist!"
+      "detail": "Creating the perfect potion to give yourself the ultimate superpowers, but only at the recommendation of the mad scientist!",
+      "tech": "https://skillicons.dev/icons?i=html,css,js"
     },
     {
       "name": "Joystick Jury",
       "live": "https://joystick-jury-b3d4a6748f01.herokuapp.com",
       "git": "https://github.com/BrObando/Project-2",
       "image": "https://i.imgur.com/vzMYUdT.png",
-      "detail": "Welcome to Joystick Jury, a video game review site where you can discuss old and current video games & new releases!"
+      "detail": "A video game review site where you can discuss old and current video games & new releases!",
+      "tech": "https://skillicons.dev/icons?i=html,css,js,mongodb,express,nodejs"
     }
   ]
   

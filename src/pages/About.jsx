@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 
+
 function About() {
   // create state to hold about data
   const [about, setAbout] = useState(null);
@@ -31,8 +32,9 @@ function About() {
   </a>
 </h2>
       <a className="email" href={`mailto:${about.email}`}>Email</a> |
-      <a className="medium" href={`${about.blog}`}>Medium</a>
-      <p>{about.bio}</p>
+      <a className="medium" href={`${about.blog}`}>Medium</a> |
+      <a className="resume" href={`${about.resume}`}>Resume</a>
+      <p className="bio">{about.bio}</p>
     </div>
   );
 

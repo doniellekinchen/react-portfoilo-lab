@@ -28,14 +28,22 @@ function Projects(props) {
         {projects.map((project, index) => (
           <div key={index} className="project-container">
             <img className="proimg" src={project.image} alt={`Project ${index + 1}`} />
-            <h2 className="name">{project.name}</h2>
+            <h2 className="proname">{project.name}</h2>
+            <div>
             <button className="live" onClick={() => window.open(project.live, "_blank")}>
               <span className="button-text">Live</span>
             </button>
             <button className="git" onClick={() => window.open(project.git, "_blank")}>
               <span className="button-text">GitHub</span>
             </button>
-            <p>{project.detail}</p>
+            </div>
+            <div className="tech">
+              <h4>Technologies Used</h4>
+            <img src={project.tech} alt="tech used"/>
+            </div>
+            <div>
+            <p className="prodets">{project.detail}</p>
+            </div>
           </div>
         ))}
       </div>
