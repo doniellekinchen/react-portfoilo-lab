@@ -11,5 +11,13 @@ https://doniellek.netlify.app
 <li>Javascript</li>
 <li>Node</li>
 <li>React</li>
+<li>Netlify</li>
 </ul>
 
+<h1>Future Features</h1>
+Although this is my first portfolio, I do plan to make upgrades in features along the way. The features include:</br>
+<ul>
+  <li>Make website into 1 scrollable page instead of having links to take you to different pages</li>
+  <li>Add an easy and accessible contact form</li>
+  <li>Continue to updating the projects page to showcase my work</li>
+</ul>
