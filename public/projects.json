@@ -15,5 +15,13 @@
       "detail": "A video game review site where you can discuss old and current video games & new releases!",
       "tech": "https://skillicons.dev/icons?i=html,css,js,mongodb,express,nodejs"
     }
+    {
+      "name": "Afiya",
+      "live": "https://afiya2023.netlify.app",
+      "git": "https://github.com/doniellekinchen/project-3-app",
+      "image": "https://imgur.com/YCyArjG",
+      "detail": "A space designed for rejuvenation, self-discovery, community building, and resource gathering",
+      "tech": "https://skillicons.dev/icons?i=html,css,js,react,tailwind"
+    }
   ]
   
