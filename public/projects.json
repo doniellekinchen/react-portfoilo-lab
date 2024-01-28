@@ -22,6 +22,14 @@
       "image": "https://i.imgur.com/B1cvkAI.png",
       "detail": "A space designed for rejuvenation, self-discovery, community building, and resource gathering",
       "tech": "https://skillicons.dev/icons?i=html,css,js,react,tailwind"
+    },
+    {
+      "name": "Shady",
+      "live": "https://shadymatcher.netlify.app",
+      "git": "https://github.com/doniellekinchen/capstone-p4",
+      "image": "https://i.imgur.com/oviOK1e.png",
+      "detail": "Shady is your go-to beauty assistant designed to simplify the process of discovering the perfect foundation match tailored to your unique skin tone",
+      "tech": "https://skillicons.dev/icons?i=html,css,js,nodejs,vue,babel,"
     }
   ]
   
