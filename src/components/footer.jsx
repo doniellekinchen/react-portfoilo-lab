@@ -1,5 +1,5 @@
 function Footer(props) {
-    return <h6>This webpage was personally victimized by Regina George</h6>;
+    return <h6>Made with React. Donielle Kinchen. 2023.</h6>;
   }
   
   export default Footer;

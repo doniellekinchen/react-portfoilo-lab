@@ -28,7 +28,7 @@ function About() {
       <img className="headshot" src={about.headshot}></img>
       <h2 align="center">
   <a href="https://skillicons.dev">
-    <img className="skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,nodejs,react,git,github" />
+    <img className="skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,nodejs,react,git,github,py,django,vue" />
   </a>
 </h2>
       <a className="resume" href={`${about.github}`}>Github</a> |
